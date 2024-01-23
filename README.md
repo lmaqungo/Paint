@@ -1,7 +1,8 @@
 # Paint Clone  
 
 Simple paint clone. LMB to draw, RMB to erase. click color options to change color, and clear to clear canvas.           
-Warning! I would advise not installing. This game is a memory management disaster. It will likely crash. Will fix within the coming hours          
+Warning! I would advise not installing. This game is a memory management disaster. It will likely crash. Will fix within the coming hours    
+My other programs are more functional      
 
 <img src="https://github.com/lmaqungo/Paint/blob/main/img/paint%20game%20window.png?raw=true" alt = "main menu display" width="300">
 
